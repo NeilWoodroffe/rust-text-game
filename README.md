@@ -1,6 +1,6 @@
 # Basic Text Adventure Game in Rust
 
-This is my first project in Rust, so I decised to make a basic text adventure game. Initially I couldn't find any suitable example source code about text games in Rust, so I started from scratch. I did however find some useful source code about the **match** keyword:
+This is my first project in Rust, so I decided to make a basic text adventure game. Initially I couldn't find any suitable example source code about text games in Rust, so I started from scratch. I did however find some useful source code about the **match** keyword:
 >match - https://stackoverflow.com/questions/31541442/how-do-i-match-on-a-string-read-from-standard-input
 
 ## Compiling the program
